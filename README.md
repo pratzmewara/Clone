@@ -1,4 +1,7 @@
-# Clone - A group chatting app
+# Clone 
+A group chatting app
 Functionalities:
-  Firebase Login and Signup
-  Firebase Signout
+<ul>
+  <li>Firebase Login and Signup
+  <li>Firebase Signout
+</ul>
