@@ -1,5 +1,6 @@
 # Clone 
-A group chatting app
+important note
+A group chatting app 
 <br>
 <p>
 Functionalities:
